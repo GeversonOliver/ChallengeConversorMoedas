@@ -48,6 +48,6 @@ Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
     Escolha uma opção válida
     **********************************************************
     ```
-3. Selecione a opção desejada digitando o número correspondente e pressione Enter.
+3. Selecione a opção desejada, ou seja, digitando o número correspondente, e em seguida, pressione Enter.
    
-5. Digite o valor que deseja converter e pressione Enter. O programa exibirá o valor convertido.
+5. Digite o valor que deseja converter, e em seguida, pressione a tecla Enter. Por fim, o programa exibirá o valor convertido.
